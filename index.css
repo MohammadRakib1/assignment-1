@@ -1,0 +1,159 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+}
+
+.text-design{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.h5-design{
+    margin-bottom: 0;
+    color: black;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.nav-title{
+    background-repeat: no-repeat;
+    background-image: url('resources/Banner\ Image.png');
+    background-position: center;
+    text-align: center;
+    padding: 150px 200px;
+    /* width: 1120px; */
+}
+
+.section-design{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.off{
+    color: #F00;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.para-description{
+    color: #F00;
+    font-size: 15px;
+}
+
+.categories{
+    color: #070211;
+    font-size: 30px;
+}
+
+.image-tag{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.section-second{
+    background-image: url('resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    padding: 130px 200px;
+    align-items: center;
+}
+
+.welcome{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.description{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btn-join{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background: none;
+    border: 0;
+}
+
+.section-third{
+    margin: 100px 100px;
+    text-align: center;
+    padding: 100px 150px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.newsletter{
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.third-para{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+}
+
+.input-title input[type='email']{
+    margin-top: 40px;
+    padding: 18px 35px;
+    border-radius: 10px;
+    background: #FFF;
+    border: 0;
+}
+
+.btn-subscribe{
+    border-radius: 10px;
+    background: #F00;
+    padding: 16px 35px;
+    border: none;
+    color: white;
+}
+
+footer{
+    padding: 130px 200px;
+    background: #070211;
+}
+
+.footer-main{
+    color: white;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.phone a{
+    color: white;
+    text-decoration: none;
+}
+
+.social-link{
+    text-align: center;
+}
+hr{
+    margin: 20px;
+}
+.social-link a{
+    margin: 10px;
+}
+
+.footer-last a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-last{
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
